@@ -1,3 +1,3 @@
 
 all:
-	gcc main.c
+	gcc -o compiled-app main.c
